@@ -21,6 +21,4 @@ additions to ensure sensible messages each time:
     make publish
     cd output && git add -A && git commit -m "$head" -m "$body" && git push origin master
 
-..
-
-_`Getting Clojure`: http://mavant.com/blog/2014/03/10/pelican-git-hooks-github-dot-io/
+.. _`Getting Clojure`: http://mavant.com/blog/2014/03/10/pelican-git-hooks-github-dot-io/
