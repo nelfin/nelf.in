@@ -1,0 +1,66 @@
+Christmas Logistics
+===================
+
+:date: 2014-12-21 20:47
+:slug: xmas-2014
+:tags: xmas, tangents
+
+As the final hours close on the winter solstice for 2014, it is worth taking
+time to reflect on the significant engineering challenge overcome by Claus et
+al\. in their efforts to successfully deliver presents to all the children of
+the Earth. Exactly how difficult a problem do they actually face?
+
+According to the Population Reference Bureau, the number of children
+under the age of 15 in 2014 was 26%, or 1.88 billion total [PRB2014]_. If we
+guesstimate the number of households by comparing the number of children to the
+total fertility rate, 2.43 children per woman [WFB2014]_, then we get
+approximately 774 million households worldwide.
+
+Phew, that's a lot of households to visit in one night, but is it just one
+night?  If Sinter Klaas just follows December 25 around the globe from the
+International Date Line, then he actually gets 26 hours total assuming that
+presents are delivered on the stroke of midnight: from UTC+14 in Kiritimati_
+(Christmas Island) in the Line Island atolls of Kiribati to UTC-12 in the
+`Howland and Baker Islands`_, the last place of the day `Anywhere on Earth`_.
+Howland and Baker are unfortunately uninhabited at the moment, so 25 hours to
+the children of American Samoa in UTC-11 will have to do.
+
+Is it feasible then to visit every household? Not by riding a reindeer-drawn
+sleigh across snowfields, and at 110µs per household even teleportation would
+leave little time to actually pick out presents from a Sack of Holding. An
+orbital approach be more appropriate, given that a low Earth orbit has a period
+of almost 90 minutes the team could only complete 16 orbits around the globe in
+that time. Passing through the poles for orbital restocking and refueling and to
+limit the amount of steering needed, only half the time is spent in useful night
+the surface of the Earth would be divided into 16 lunes of 31.9 million km\
+:superscript:`2`, each one to have all of its presents delivered in 45 minutes.
+
+High-flying reindeer still smack of being quite intractable, which leaves but
+one plausible solution: Saint Nicholas is the avatar of a highly advanced, yet
+whimsical, civilisation with technology at least several centuries beyond us
+judging by their application of desktop molecular assembly in households around
+the world since at least the `4th century CE`_. We should be thankful that these
+immensely powerful aliens with their panopticon-like surveillance:
+
+    |   He sees you when you're sleeping,
+    |   He knows when you're awake.
+    |   He knows if you've been bad or good,
+    |   So be good for goodness' sake!
+    |
+    |   —*Santa Claus is Coming To Town*, John Frederick Coots and Haven
+        Gillespie 
+
+seek only to reward children for adhering to a fairly benign moral code of
+"being good". Pray that this is all that they demand.
+
+.. [PRB2014] 2014 World Population Data Sheet, Population Reference Bureau
+    http://www.prb.org/pdf14/2014-world-population-data-sheet_eng.pdf
+
+.. [WFB2014] The CIA World Factbook, 2014
+    https://www.cia.gov/library/publications/the-world-factbook/fields/2127.html
+
+.. _Kiritimati: http://en.wikipedia.org/wiki/Kiritimati
+.. _`Howland and Baker Islands`: http://en.wikipedia.org/wiki/Howland_and_Baker_islands
+.. _`Anywhere on Earth`: http://www.ieee802.org/16/aoe.html
+.. _`4th century CE`: http://www.stnicholascenter.org/pages/who-is-st-nicholas/
+
